@@ -1,0 +1,120 @@
+Welcome to Online Banking System
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Press 1 to Savings Account 
+Press 2 to Current Account 
+1
+Enter Customer Name and Account Number to verify savings account
+Enter Your UserName : 
+ppr
+Enter Your Account Number :
+6545
+Account Not Available Contact Your Home Branch.....
+Enter Your UserName : 
+uuuhjh
+Enter Your Account Number :
+74654
+Account Not Available Contact Your Home Branch.....
+Enter Your UserName : 
+perumalraj
+Enter Your Account Number :
+164914
+Customer Account Verified
+
+Available Features For You : 
+
+press 1 to Check Balance
+press 2 to Deposit Money
+press 3 to Withdraw Money
+Press 4 to Calculate Interest
+Press 5 to Check Minimum Balance
+press 0 to Exit
+2
+Enter amount to deposit :
+1500
+Amount Rs.1500.0 Successfully Deposited to your Account Number  164914
+
+Available Features For You : 
+
+press 1 to Check Balance
+press 2 to Deposit Money
+press 3 to Withdraw Money
+Press 4 to Calculate Interest
+Press 5 to Check Minimum Balance
+press 0 to Exit
+1
+Your Account Balance is 1500.0 .Rs
+
+Available Features For You : 
+
+press 1 to Check Balance
+press 2 to Deposit Money
+press 3 to Withdraw Money
+Press 4 to Calculate Interest
+Press 5 to Check Minimum Balance
+press 0 to Exit
+3
+Enter amount to withdraw:
+500
+Amount Rs.500.0 Withdrawn successfully...
+
+Available Features For You : 
+
+press 1 to Check Balance
+press 2 to Deposit Money
+press 3 to Withdraw Money
+Press 4 to Calculate Interest
+Press 5 to Check Minimum Balance
+press 0 to Exit
+1
+Your Account Balance is 1000.0 .Rs
+
+Available Features For You : 
+
+press 1 to Check Balance
+press 2 to Deposit Money
+press 3 to Withdraw Money
+Press 4 to Calculate Interest
+Press 5 to Check Minimum Balance
+press 0 to Exit
+4
+Interest calculated and added to your account. Current balance: 1025.0
+
+Available Features For You : 
+
+press 1 to Check Balance
+press 2 to Deposit Money
+press 3 to Withdraw Money
+Press 4 to Calculate Interest
+Press 5 to Check Minimum Balance
+press 0 to Exit
+1
+Your Account Balance is 1025.0 .Rs
+
+Available Features For You : 
+
+press 1 to Check Balance
+press 2 to Deposit Money
+press 3 to Withdraw Money
+Press 4 to Calculate Interest
+Press 5 to Check Minimum Balance
+press 0 to Exit
+5
+Your account is in good standing with respect to the minimum balance requirement.
+
+Available Features For You : 
+
+press 1 to Check Balance
+press 2 to Deposit Money
+press 3 to Withdraw Money
+Press 4 to Calculate Interest
+Press 5 to Check Minimum Balance
+press 0 to Exit
+0
+Exiting the Features. Thank you!
+Customer Account Verified
+Press 1 to Savings Account 
+Press 2 to Current Account 
+2
+Current Account Online Facility Currently Not Available Contact Home Branch....
+
+Process finished with exit code 0
